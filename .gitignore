@@ -1,0 +1,4 @@
+.env
+cases.pkl
+opinions-*
+generated_responses.pkl
