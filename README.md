@@ -34,7 +34,7 @@ breadth_evaluation.ipynb
 ```
 
 ## Approach
-LLM Case Law uses a 3 step process, including a hierarchical RAG to generate and evaluate a repsonse to a user's query. Read more about the approach in this [Medium article]()
+LLM Case Law uses a 3 step process, including a hierarchical RAG to generate and evaluate a repsonse to a user's query. Read more about the approach in this [Medium article](https://medium.com/@mdass9/utilizing-trustworthy-llms-for-case-law-e921f590ee71)
 
 ![Alt text](hierarchical_rag.png)
 
