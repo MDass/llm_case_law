@@ -25,7 +25,7 @@ scrape_cases.ipynb
 
 To interact with the chat bot, using test promps, run the cells in:
 ```
-query.ipynb
+main.ipynb
 ```
 
 To run an breadth evaluation on the generated responses, run the cells in:
